@@ -5,7 +5,7 @@ Please create as many mirrors as you want. Do so on both the clear-net and the d
 I am assuming you have basic knowledge of how to set up back end like PHPBB and PHP & MYSQL.
 The source code provided, only includes the front end. If you want to mirror the forum, you will have to set up your own backend.
 
-## Hosting your mirror from the clear-net
+## Hosting your mirror on the clear-net
 If you are hosting your mirrored version of SurveillanceCameraMan.com on the clear-net. There are few things you **MUST** set up first.
 
 ###### Buy A Domain Name
