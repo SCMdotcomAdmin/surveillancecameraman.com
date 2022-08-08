@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 19:17:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 19:17:41 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.70.242.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 724
+2022-07-30 19:20:34 192.168.0.23 GET /robots.txt - 443 - 162.158.78.205 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 76
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 19:37:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 19:37:06 192.168.0.23 GET /upload-image - 443 - 108.162.241.205 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 115
+2022-07-30 19:37:07 192.168.0.23 GET /style.css - 443 - 108.162.242.74 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 106

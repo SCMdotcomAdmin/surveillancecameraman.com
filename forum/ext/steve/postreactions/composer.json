@@ -1,0 +1,32 @@
+{
+    "name": "steve/postreactions",
+    "type": "phpbb-extension",
+    "description": "Allows Users to add image Reactions, Thanks and Likes to topics or posts.",
+    "homepage": "https://www.stevenclark.eu/phpBB3/",
+    "version": "0.9.0-dev",
+    "time": "2022-04-19",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Steven Clark",
+            "email": "steveniclark@outlook.com",
+            "homepage": "https://www.stevenclark.eu/phpBB3/",
+            "role": "Author/Developer"
+        }
+    ],
+    "require": {
+        "php": ">= 7.4"
+    },
+    "extra": {
+        "display-name": "Topic/Post Reactions",
+        "soft-require": {
+            "phpbb/phpbb": " >= 3.3.5"
+        },
+        "version-check": {
+            "host": "www.stevenclark.eu",
+            "directory": "/version_check",
+            "filename": "reaction_version.json",
+            "ssl": true
+        }
+    }
+}

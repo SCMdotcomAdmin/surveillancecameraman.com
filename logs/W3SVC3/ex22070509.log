@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-05 16:02:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-05 16:02:12 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:02:59 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:09:02 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:09:46 192.168.0.23 GET / - 443 - 162.158.78.151 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-05 16:11:44 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:13:30 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:17:01 192.168.0.23 GET / - 443 - 172.70.135.202 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-07-05 16:17:52 192.168.0.23 GET / - 443 - 162.158.78.41 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 175
+2022-07-05 16:22:23 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 205
+2022-07-05 16:23:00 192.168.0.23 GET / - 443 - 172.70.135.202 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 - 200 0 0 72
+2022-07-05 16:23:00 192.168.0.23 GET /style.css - 443 - 172.70.135.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 https://downloads.media/ 200 0 0 106
+2022-07-05 16:23:00 192.168.0.23 GET / - 443 - 172.70.135.112 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 - 200 0 0 69
+2022-07-05 16:23:01 192.168.0.23 GET /style.css - 443 - 172.70.134.63 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 https://www.downloads.media/ 200 0 0 74
+2022-07-05 16:24:10 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:26:03 192.168.0.23 GET / - 443 - 172.70.38.219 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-07-05 16:26:24 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-05 16:33:10 192.168.0.23 GET / - 443 - 172.70.35.22 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:35:02 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:39:22 192.168.0.23 GET / - 443 - 162.158.78.111 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 96
+2022-07-05 16:39:53 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-05 16:40:39 192.168.0.23 GET / - 443 - 172.70.38.91 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 103
+2022-07-05 16:45:08 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:47:15 192.168.0.23 GET / - 443 - 172.70.38.91 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:48:08 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-05 16:49:20 192.168.0.23 GET / - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 190
+2022-07-05 16:49:20 192.168.0.23 GET /wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 204
+2022-07-05 16:49:20 192.168.0.23 GET /xmlrpc.php rsd 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:20 192.168.0.23 GET / - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 190
+2022-07-05 16:49:20 192.168.0.23 GET /blog/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:21 192.168.0.23 GET /web/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 205
+2022-07-05 16:49:21 192.168.0.23 GET /wordpress/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 199
+2022-07-05 16:49:21 192.168.0.23 GET /website/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 199
+2022-07-05 16:49:21 192.168.0.23 GET /wp/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 205
+2022-07-05 16:49:21 192.168.0.23 GET /news/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:22 192.168.0.23 GET /2018/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 205
+2022-07-05 16:49:22 192.168.0.23 GET /2019/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:22 192.168.0.23 GET /shop/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:22 192.168.0.23 GET /wp1/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 200
+2022-07-05 16:49:22 192.168.0.23 GET /test/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 199
+2022-07-05 16:49:23 192.168.0.23 GET /media/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:23 192.168.0.23 GET /wp2/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 201
+2022-07-05 16:49:23 192.168.0.23 GET /site/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 201
+2022-07-05 16:49:23 192.168.0.23 GET /cms/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 202
+2022-07-05 16:49:23 192.168.0.23 GET /sito/wp-includes/wlwmanifest.xml - 443 - 162.158.2.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 232
+2022-07-05 16:50:25 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-05 16:51:38 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-05 16:56:03 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-07-05 16:56:37 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70

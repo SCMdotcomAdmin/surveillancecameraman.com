@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-29 23:23:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-29 23:23:47 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 108.162.246.208 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 304 0 0 451
+2022-07-29 23:26:02 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 172.71.146.197 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 304 0 0 3

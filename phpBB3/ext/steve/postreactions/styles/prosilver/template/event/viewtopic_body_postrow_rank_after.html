@@ -1,0 +1,4 @@
+
+{% if not postrow.GUEST && REACTIONS_ENABLED %}
+<dd class="profile-joined"><strong>{{ lang('REACTIONS') }}{{ lang('COLON') }}</strong> <a id="user-reaction-count{{ postrow.POST_ID }}" href="{{ postrow.U_POST_AUTHOR }}#user_reactions">{{ postrow.USER_REACTIONS }}</a></dd>
+{% endif %}

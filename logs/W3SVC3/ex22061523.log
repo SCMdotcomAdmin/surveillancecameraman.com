@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-16 06:02:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-16 06:02:37 192.168.0.23 GET / - 443 - 172.70.38.219 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:03:39 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 584
+2022-06-16 06:08:28 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-16 06:08:35 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:12:54 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:13:22 192.168.0.23 GET / - 443 - 162.158.78.137 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-16 06:15:51 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:16:06 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:20:31 192.168.0.23 GET / - 443 - 172.70.35.10 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:23:59 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+2022-06-16 06:24:15 192.168.0.23 GET /image/vagrantholiday-chaz.jpg - 443 - 162.158.107.220 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+Safari/537.36 https://surveillancecameraman.com/ 304 0 0 451
+2022-06-16 06:26:26 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:30:01 192.168.0.23 GET / - 443 - 162.158.78.29 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:31:16 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:33:58 192.168.0.23 GET / - 443 - 172.70.38.219 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:36:28 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:36:54 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-16 06:41:29 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+2022-06-16 06:44:48 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:47:40 192.168.0.23 GET / - 443 - 172.70.135.202 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:47:57 192.168.0.23 GET / - 443 - 172.70.134.109 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:52:06 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-16 06:52:42 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-16 06:57:22 192.168.0.23 GET / - 443 - 172.70.35.82 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-16 06:59:30 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74

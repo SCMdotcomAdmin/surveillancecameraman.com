@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-05 10:03:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-05 10:03:55 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:03:59 192.168.0.23 GET / - 443 - 162.158.78.253 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+2022-06-05 10:05:42 192.168.0.23 GET / - 443 - 172.70.135.44 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 76
+2022-06-05 10:08:50 192.168.0.23 GET / - 443 - 172.70.135.110 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 10:11:55 192.168.0.23 GET /robots.txt - 443 - 162.158.90.141 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/88.0.4324.146+Safari/537.36 - 404 0 2 157
+2022-06-05 10:12:02 192.168.0.23 GET / - 443 - 162.158.78.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 10:12:30 192.168.0.23 GET / - 443 - 172.70.135.116 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-05 10:16:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-05 10:16:45 192.168.0.23 GET / - 443 - 162.158.78.39 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 167
+2022-06-05 10:18:31 192.168.0.23 GET / - 443 - 172.70.35.22 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-05 10:24:42 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:25:04 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:28:37 192.168.0.23 GET / - 443 - 172.70.135.88 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:29:22 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:30:31 192.168.0.23 GET / - 443 - 172.70.42.135 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:34:42 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-05 10:39:29 192.168.0.23 GET / - 443 - 172.70.38.3 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:40:06 192.168.0.23 GET / - 443 - 172.70.42.133 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-05 10:42:01 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 10:43:55 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:45:22 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:50:02 192.168.0.23 GET / - 443 - 172.70.134.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:51:33 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 162.158.107.72 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 37
+2022-06-05 10:51:33 192.168.0.23 GET /@Grandson_Grampie/style.css - 443 - 108.162.245.211 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/@Grandson_Grampie/commoncarp 304 0 0 4
+2022-06-05 10:51:33 192.168.0.23 GET /@Grandson_Grampie/video/commoncarp.webm - 443 - 108.162.245.63 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/@Grandson_Grampie/commoncarp 304 0 0 4
+2022-06-05 10:51:33 192.168.0.23 GET /@Grandson_Grampie/main.js - 443 - 108.162.246.76 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/@Grandson_Grampie/commoncarp 404 0 2 6
+2022-06-05 10:51:41 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 5
+2022-06-05 10:51:53 192.168.0.23 GET / - 443 - 108.162.246.206 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/@Grandson_Grampie/commoncarp 200 0 0 6
+2022-06-05 10:51:53 192.168.0.23 GET /style.css - 443 - 108.162.245.71 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/ 304 0 0 6
+2022-06-05 10:51:53 192.168.0.23 GET /image/commoncarp.jpg - 443 - 162.158.107.56 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/ 304 0 0 5
+2022-06-05 10:51:53 192.168.0.23 GET /main.js - 443 - 108.162.245.135 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/101.0.4951.61+Mobile+Safari/537.36 https://downloads.media/ 404 0 2 4
+2022-06-05 10:52:41 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:55:00 192.168.0.23 GET / - 443 - 172.70.134.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 10:55:32 192.168.0.23 GET / - 443 - 172.70.134.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-05 10:57:23 192.168.0.23 GET / - 443 - 162.158.78.73 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71

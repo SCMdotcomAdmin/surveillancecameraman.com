@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-28 08:12:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-28 08:12:14 192.168.0.23 HEAD / - 443 - 162.158.170.185 - - 200 0 0 388
+2022-07-28 08:12:14 192.168.0.23 GET / - 443 - 172.70.189.86 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.1916.47+Safari/537.36 - 200 0 0 197
+2022-07-28 08:12:16 192.168.0.23 GET / - 443 - 172.70.189.56 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.1916.47+Safari/537.36 - 200 0 0 188
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-28 08:39:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-28 08:39:40 192.168.0.23 GET / - 443 - 172.70.134.79 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 1596

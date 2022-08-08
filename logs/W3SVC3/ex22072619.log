@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-27 02:13:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-27 02:13:08 192.168.0.23 GET /wp-includes/id3/license.txt/feed/ - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 298
+2022-07-27 02:13:08 192.168.0.23 GET /wp-includes/id3/license.txt/xmlrpc.php rsd 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 225
+2022-07-27 02:13:08 192.168.0.23 GET /wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 233
+2022-07-27 02:13:08 192.168.0.23 GET /wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 226
+2022-07-27 02:13:08 192.168.0.23 GET /wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 242
+2022-07-27 02:13:09 192.168.0.23 GET /wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 197
+2022-07-27 02:13:09 192.168.0.23 GET /wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-27 02:13:09 192.168.0.23 GET /wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 202
+2022-07-27 02:13:09 192.168.0.23 GET /wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 202
+2022-07-27 02:13:10 192.168.0.23 GET /wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-27 02:13:10 192.168.0.23 GET /wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-27 02:13:10 192.168.0.23 GET /wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 197
+2022-07-27 02:13:10 192.168.0.23 GET /wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-27 02:13:11 192.168.0.23 GET /wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 203
+2022-07-27 02:14:23 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 86

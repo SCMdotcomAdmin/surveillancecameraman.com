@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-29 21:05:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-29 21:05:26 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-29 21:07:41 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:12:05 192.168.0.23 GET / - 443 - 172.70.35.22 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-29 21:15:17 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 314
+2022-06-29 21:15:23 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 367
+2022-06-29 21:19:28 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-29 21:21:45 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:23:29 192.168.0.23 GET / - 443 - 172.70.34.141 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 685
+2022-06-29 21:24:43 192.168.0.23 GET / - 443 - 172.68.11.12 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.84+Safari/537.36 - 200 0 0 198
+2022-06-29 21:24:46 192.168.0.23 GET /robots.txt - 443 - 172.68.10.159 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.84+Safari/537.36 - 404 0 2 201
+2022-06-29 21:26:50 192.168.0.23 GET / - 443 - 172.70.34.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-29 21:28:08 192.168.0.23 GET / - 443 - 172.70.34.141 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:31:15 192.168.0.23 GET / - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 200 0 0 199
+2022-06-29 21:31:17 192.168.0.23 GET /admin - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 214
+2022-06-29 21:31:20 192.168.0.23 GET /admin/login.php - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 202
+2022-06-29 21:31:23 192.168.0.23 GET /admin/login - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 201
+2022-06-29 21:31:26 192.168.0.23 GET /login - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 198
+2022-06-29 21:31:29 192.168.0.23 GET /login.php - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 200
+2022-06-29 21:31:32 192.168.0.23 GET /login.aspx - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 404 0 2 201
+2022-06-29 21:31:35 192.168.0.23 GET / - 443 - 172.68.245.70 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4895.86+Safari/537.36 https://downloads.media/ 200 0 0 198
+2022-06-29 21:34:19 192.168.0.23 GET / - 443 - 172.70.38.29 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:35:27 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-29 21:37:48 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:41:56 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-29 21:43:50 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-29 21:44:08 192.168.0.23 GET / - 443 - 162.158.78.183 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-29 21:47:48 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 712
+2022-06-29 21:56:48 192.168.0.23 GET / - 443 - 172.70.34.141 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-29 21:56:55 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71

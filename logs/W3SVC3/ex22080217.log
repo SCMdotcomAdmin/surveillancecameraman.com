@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 00:16:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 00:16:14 192.168.0.23 GET /robots.txt - 443 - 108.162.242.11 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 404 0 2 422
+2022-08-03 00:16:14 192.168.0.23 GET / - 443 - 108.162.241.94 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 68
+2022-08-03 00:18:50 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.70.206.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36+Edg/103.0.1264.77 https://surveillancecameraman.com/ 304 0 0 82
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 00:36:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 00:36:37 192.168.0.23 GET / - 443 - 172.70.135.79 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-08-03 00:36:43 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-08-03 00:46:12 192.168.0.23 GET / - 443 - 172.70.135.33 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-08-03 00:46:49 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-08-03 00:59:04 192.168.0.23 GET / - 443 - 172.70.135.33 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70

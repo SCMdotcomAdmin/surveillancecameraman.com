@@ -1,0 +1,400 @@
+@font-face {
+ font-family:Segoe UI;
+ src:url(fonts/Segoe UI.ttf)
+}
+p {
+ line-height:1.5
+}
+a {
+ color:#706b6d
+}
+html,
+body {
+ width:100%;
+ margin:0 auto;
+ font-family:Segoe UI
+}
+img {
+ width:100%;
+ position:absolute
+}
+.landing {
+ width:100%
+}
+.landing>video {
+ width:50%;
+ margin:150px 100px 0;
+ position:relative
+}
+h1 {
+ position:absolute;
+ margin:50px 100px 100px;
+ font-size:50px;
+ color:#fff;
+ line-height:43px
+}
+.disclaimer {
+ position:absolute;
+ color:#fff;
+ width:100%
+}
+.disclaimer-a {
+ background:#706b6d;
+ padding:0 10px 3px;
+ color:#fff;
+ box-shadow:0 0 5px 0 #706b6d;
+ text-decoration:none
+}
+.disclaimer>p {
+ text-align:center;
+ text-shadow:1px 1px 0 #000;
+ padding:10px;
+ line-height:1.7em
+}
+#character1 {
+  background-image: url('media/images/characters/homeless-crime-history.jpg" alt="Homeless Criminology Historian');
+}
+.characters {
+ margin-top: 225px;
+ color:#540545
+}
+.characters>h2 {
+ margin-left:100px;
+ color:#000
+}
+.characters-list {
+ display:flex;
+ flex-direction:row;
+ flex-wrap:wrap;
+ justify-content:center
+}
+.character-box:hover {
+  transform: scale(1.04);
+}
+.character-box {
+ width: 18pc;
+ border-radius:15px;
+ padding:0 15px;
+ margin:0 15px 15px 0;
+ transition: transform .2s;
+}
+.character-box>em {
+ display:initial;
+ float:left;
+ margin-right:5px
+}
+.character-box>img {
+ position:relative
+}
+.character-box>h4,
+.character-box a {
+ margin:0;
+ padding:5px 0 10px;
+ display:inline-block
+}
+.character-box>a {
+ float:right
+}
+.character-box a>img {
+ position:relative
+}
+.character-box>h5 {
+ margin:4px 0 15px;
+ text-decoration:underline;
+ color:#706b6d;
+ cursor:pointer
+}
+.character-box>p {
+}
+.character-box>button,
+.news-article>button {
+ padding:10px;
+ background-color:#706b6d;
+ color:#fff;
+ border:none;
+ cursor:pointer;
+ box-shadow:0 0 5px 0 #706b6d
+}
+.character-box:not(:last-child) {
+ margin-bottom:50px
+}
+.character-box p>.hide {
+ display:none
+}
+.logo {
+ width:90px
+}
+.inthenews {
+}
+.news-logo>h2 {
+ -webkit-transform:rotate(20deg);
+ position:absolute;
+ margin-top:-20px;
+ font-family:cursive;
+ margin-left:52px
+}
+.news-logo>img {
+ width:initial
+}
+.news-article {
+ width:fit-content!important;
+ height:fit-content;
+ box-shadow:0 0 5px 0 #706b6d;
+ padding:25px
+}
+.news-article>a {
+ font-size:30px;
+ margin-bottom:10px;
+ color:#540545
+}
+.news-logo {
+ margin:150px 0;
+ justify-content:center;
+ display:flex
+}
+#more {
+ display:none
+}
+.news-videos>iframe {
+ width:305px!important;
+ margin:200px 0 50px 50px!important;
+ height:170px;
+ transition: transform .2s;
+}
+.news-videos>iframe:hover {
+  transform: scale(1.04);
+}
+.news-videos > video {
+  transition: transform .2s; 
+}
+.news-videos >  video:hover {
+  transform: scale(1.04);
+}
+footer {
+ width:100%;
+ height:fit-content;
+ background:#e8e8e8;
+ text-align:center;
+ margin-bottom:25px
+}
+footer>h3 {
+ color:#fff;
+ font-size:30px;
+ margin:0;
+ background:#fa005a;
+ padding:20px;
+ display:inline;
+ border-radius:70px
+}
+footer>a {
+ position:absolute;
+ margin:10px
+}
+.news-videos {
+ margin-top:50px
+}
+.sub {
+ font-size:20px;
+ display:block
+}
+.footer {
+ box-shadow:0 0 5px #c9c8c8;
+ padding:50px 50px 0
+}
+.ex-ref {
+ display:flex;
+ flex-direction:column;
+ line-height:40px
+}
+.ref-list {
+ width:100%;
+ height:max-content
+}
+.ref-list>h2 {
+ margin:0 0 25px
+}
+.ref-list>a {
+ margin:0 60px 0 0
+}
+.footer-bottom {
+ background:#fff;
+ margin:50px -50px 0;
+ text-align:center;
+ box-shadow:0 0 5px #cccaca;
+ font-size:15px;
+ padding:10px;
+ color:#aaa
+}
+.footer-bottom>h3 {
+ margin:0
+}
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+ .ref-list>a {
+  margin:5px
+ }
+ img {
+  opacity:.8
+ }
+ .landing>video {
+  width:60%;
+  margin:150px 100px 0;
+  position:relative
+ }
+ .disclaimer>p {
+  color:#000;
+  text-shadow:0 0 0 #000!important
+ }
+ h1 {
+  margin:30px 0;
+  height:150px;
+  text-align:center;
+  text-shadow:0 0 20px #000
+ }
+ .landing>video {
+  width:100%;
+  margin:150px 0 0;
+  position:relative
+ }
+ .characters {
+  width:100%;
+  margin-top:300px
+ }
+ .characters>h2 {
+  margin-left:35px;
+  color:#000
+ }
+ .characters-list {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:center
+ }
+ .character-box {
+  width:77%
+ }
+ .character-box>img {
+  position:relative
+ }
+}
+.inthenews {
+ display:inline;
+ margin-left:-40px
+}
+.inthenews>h2 {
+ margin-left:121px
+}
+.news-logo {
+ margin:20px 0 200px
+}
+.news-article {
+ width:100%;
+ margin:0
+}
+.news-videos iframe,
+.news-videos video {
+ width:305px!important;
+ margin:0 0 50px 50px!important;
+ height:170px;
+ box-shadow:0 0 5px 0 #fa005a
+}
+.flip-box {
+  background-color: transparent;
+  width: 288px;
+  height: 163px;
+  perspective: 1000px;
+}
+@media only screen and (min-device-width:480px) and (max-device-width:1366px) {
+ h1 {
+  height:150px;
+  text-align:center;
+  font-size:75px;
+  text-shadow:0 0 20px #000;
+  line-height:65px;
+  margin-top:90px
+ }
+ .landing>video {
+  width:100%;
+  margin:300px 0 0;
+  position:relative
+ }
+ .disclaimer>p {
+  color:#000;
+  text-shadow:0 0 0 #000!important;
+  font-size:23px
+ }
+ .characters {
+  margin-top:300px
+ }
+ .characters>h2 {
+  margin-left:85px
+ }
+ .ref-list>a {
+  margin:5px
+ }
+  
+}
+
+@media (max-width:  480px) {
+.flip-box {
+  background-color: transparent;
+  width: 320px !important;
+  height: 163px;
+  perspective: 1000px;
+}
+.flip-box-mobile {
+  background-color: transparent;
+  width: 321px !important;
+  height: 181px;
+  perspective: 1000px;
+  margin-top: -15px;
+}
+}
+
+.flip-box {
+  background-color: transparent;
+  width: 288px;
+  height: 163px;
+  perspective: 1000px;
+}
+
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  color: white;
+}
+
+.flip-box-back {
+  color: white;
+  transform: rotateY(180deg);
+}
+
+/* Flip Box IMGs */
+
+.flip-box-front1 {
+  background-image: url('media/images/characters/homeless-crime-history.jpg');
+  background-size: cover;
+}
+
+.flip-box-front2 {
+  background-image: url('media/images/characters/asians1.jpg');
+  background-size: cover;
+}

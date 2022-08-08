@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-27 16:02:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-27 16:02:13 192.168.0.23 GET /robots.txt - 443 - 162.158.222.161 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 http://downloads.media/robots.txt 404 0 2 390
+2022-07-27 16:02:13 192.168.0.23 GET /humans.txt - 443 - 162.158.222.229 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 http://downloads.media/humans.txt 404 0 2 174
+2022-07-27 16:02:14 192.168.0.23 GET /ads.txt - 443 - 162.158.222.229 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 http://downloads.media/ads.txt 404 0 2 172
+2022-07-27 16:02:14 192.168.0.23 GET / - 443 - 162.158.222.249 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 http://downloads.media/ 200 0 0 175

@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-29 14:20:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-29 14:20:06 192.168.0.23 GET / - 80 - 64.62.197.188 Mozilla/5.0+zgrab/0.x - 200 0 0 122
+2022-07-29 14:21:30 192.168.0.23 GET /favicon.ico - 80 - 64.62.197.196 Mozilla/5.0+zgrab/0.x - 404 0 2 26
+2022-07-29 14:28:18 192.168.0.23 POST /boaform/admin/formLogin - 80 - 163.123.143.71 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:71.0)+Gecko/20100101+Firefox/71.0 http://71.212.158.114:80/admin/login.asp 404 0 2 156

@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-02 00:02:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-02 00:02:34 192.168.0.23 GET / - 80 - 128.1.248.26 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 131
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-02 00:28:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-02 00:28:04 192.168.0.23 GET /console/ - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 399
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-02 00:55:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-02 00:55:09 127.0.0.1 GET / - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 483
+2022-08-02 00:55:09 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 5
+2022-08-02 00:55:09 127.0.0.1 GET /style.css - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 200 0 0 298
+2022-08-02 00:55:09 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 5
+2022-08-02 00:55:09 127.0.0.1 GET /favicon.ico - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 1
+2022-08-02 00:56:32 127.0.0.1 GET / - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 1
+2022-08-02 00:56:32 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 1
+2022-08-02 00:56:32 127.0.0.1 GET /style.css - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 200 0 0 38
+2022-08-02 00:56:32 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 5

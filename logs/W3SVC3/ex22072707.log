@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-27 14:32:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-27 14:32:26 192.168.0.23 GET /robots.txt - 443 - 172.70.130.239 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 161
+2022-07-27 14:32:26 192.168.0.23 GET /ads.txt - 443 - 172.70.130.161 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 55
+2022-07-27 14:32:56 192.168.0.23 GET /.env - 443 - 172.69.62.27 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - 404 0 2 146
+2022-07-27 14:32:56 192.168.0.23 GET /wp-content/ - 443 - 172.68.210.25 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - 404 0 2 142
+2022-07-27 14:46:46 192.168.0.23 GET / - 443 - 172.70.134.79 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 76
+2022-07-27 14:49:28 192.168.0.23 GET / - 443 - 172.70.135.80 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 76
+2022-07-27 14:55:14 192.168.0.23 GET / - 443 - 162.158.91.238 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/80.0.3987+Safari/537.36 http://downloads.media 200 0 0 161

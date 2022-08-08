@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 12:02:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 12:02:21 192.168.0.23 GET / - 443 - 172.70.38.120 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 12:34:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 12:34:20 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.130.54 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 324
+2022-08-03 12:34:40 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.70.178.248 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 191
+2022-08-03 12:36:04 192.168.0.23 GET /image/vagrantholiday-chaz.jpg - 443 - 172.70.131.111 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 262

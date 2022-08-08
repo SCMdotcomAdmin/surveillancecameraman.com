@@ -1,0 +1,14 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 15:01:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 15:01:28 192.168.0.23 GET / - 80 - 162.142.125.213 - - 403 14 0 52
+2022-08-03 15:01:28 192.168.0.23 GET / - 80 - 162.142.125.213 Mozilla/5.0+(compatible;+CensysInspect/1.1;++https://about.censys.io/) - 403 14 0 51
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-03 15:21:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-03 15:21:12 192.168.0.23 POST /boaform/admin/formLogin - 80 - 163.123.143.71 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:71.0)+Gecko/20100101+Firefox/71.0 http://71.212.152.153:80/admin/login.asp 404 0 2 153
+2022-08-03 15:33:08 192.168.0.23 GET /fuN3 - 80 - 172.104.138.223 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.77+Safari/537.36 - 404 0 1236 13012
+2022-08-03 15:43:06 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 403 14 0 154
+2022-08-03 15:58:23 192.168.0.23 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 190

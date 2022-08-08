@@ -1,0 +1,67 @@
+
+					{% if postrow.reaction_types|length && postrow.U_POSTER_ADD && postrow.POST_REACTION_ENABLE %}
+						{% if REACTIONS_ENABLE_THANKS %}
+						<li class="reaction-button-show" data-skip-responsive="true" id="ltpr-{{ postrow.POST_ID }}">
+							{% for reaction_types in postrow.reaction_types %}
+								<button id="thank-button{{ postrow.POST_ID }}" {% if reaction_types.U_REACTED %}style="display: none;"{% endif %} href="{{ reaction_types.U_REACTION_ADD }}" class="button button-icon-only thank-like" data-add-reaction="{{ postrow.POST_ID }}" title="{{ reaction_types.TITLE }}">
+								{% if REACTIONS_ENABLE_THANKS_TEXT %}{{ reaction_types.TITLE }}{% endif %} <i id="thank-icon{{ postrow.POST_ID }}" class="icon fa-thumbs-up icon-green"></i>
+								</button>
+							{% endfor %}
+							{% if postrow.U_REACTION_DELETE %}
+								<button id="delete-button{{ postrow.POST_ID }}" {% if not postrow.REACTION_DELETE %}style="display: none;{% endif %} href="{{ postrow.REACTION_DELETE }}" class="button button-icon-only thank-like" data-delete-reaction="{{ postrow.POST_ID }}" title="{{ lang('REACTIONS_NO_THANKOU') }} {{ reaction_types.TITLE }}">
+									{% if REACTIONS_ENABLE_THANKS_TEXT %}{{ lang('REACTIONS_NO_THANKS') }}{% endif %} <i id="thank-remove-icon{{ postrow.POST_ID }}" class="icon fa-thumbs-down icon-red"></i>
+								</button>
+							{% endif %}
+							{% if postrow.U_REFRESH && postrow.RESYNC %}
+								<span class="button button-secondary">
+									<a id="tpr-refresh-{{ postrow.POST_ID }}" href="{{ postrow.RESYNC }}" title="{{ lang('RESYNC_REACTIONS') }}">
+										<i class="icon {% if postrow.REFRESH %}fa-spin{% endif %} fa-refresh icon-green"></i>
+									</a>
+								</span>
+							{% endif %}
+						</li>
+						{% else %}
+						<li class="reaction-button-show" data-skip-responsive="true">
+							<div class="dropdown-container dropdown-button-control" id="tpr-dropdown">
+								<span title="{{ lang('ADD_REACTION') }}" class="button button-secondary dropdown-trigger">
+									<i class="icon fa-smile-o icon-green"></i><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i>
+								</span>
+								<div class="dropdown" style="width: {{ REACTIONS_DROPDOWN_WIDTH }}px;">
+									<div class="pointer"><div class="pointer-inner"></div></div>
+									<ul class="dropdown-contents contact-icons" id="ltpr-{{ postrow.POST_ID }}">
+										<li>
+										{% for reaction_types in postrow.reaction_types %}
+											{% if reaction_types.IMAGE_SRC && not reaction_types.CHECKED %}
+											<a href="{{ reaction_types.U_REACTION_ADD }}" class="add-reaction-input" data-add-reaction="true">
+												<img src="{{ reaction_types.IMAGE_SRC }}" {% if REACTION_IMAGE_HEIGHT %}style="height: {{ REACTION_IMAGE_HEIGHT }}px;width: {{ REACTION_IMAGE_WIDTH }}px;"{% endif %} alt="{{ reaction_types.TITLE }}" title="{{ reaction_types.TITLE }}" />
+											</a>
+											{% endif %}
+										</li>		
+										{% endfor %}
+										</li>
+									</ul>
+									{% if postrow.U_REACTION_DELETE || postrow.U_REFRESH && postrow.RESYNC %}
+									<div class="dropdown-contents"> 
+										<ul class="dropdown-contents contact-icons">
+										{% if postrow.U_REACTION_DELETE %}
+											<li id="delete-button{{ postrow.POST_ID }}" {% if not postrow.REACTION_DELETE %}style="display: none;"{% endif %}>
+												<a id="delete-reaction{{ postrow.POST_ID }}" href="{{ postrow.REACTION_DELETE }}" class="delete-reaction-input" data-delete-reaction="true" title="{{ lang('DELETE_REACTION') }}">
+													<i class="icon fa-times icon-red"></i>
+												</a>
+											</li>
+										{% endif %}
+										{% if postrow.U_REFRESH && postrow.RESYNC %}
+											<li>
+												<a id="tpr-refresh-{{ postrow.POST_ID }}" href="{{ postrow.RESYNC }}" title="{{ lang('RESYNC_REACTIONS') }}">
+													<i class="icon {% if postrow.REFRESH %}fa-spin{% endif %} fa-refresh icon-green"></i>
+												</a>
+											</li>
+										{% endif %}	
+										</ul>
+									</div>
+									{% endif %}
+								</div>
+							</div>
+						</li>
+						{% endif %}
+					{% endif %}

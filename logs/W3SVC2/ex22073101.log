@@ -1,0 +1,14 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 08:25:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 08:25:16 192.168.0.23 GET / - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 984
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 08:58:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 08:58:45 127.0.0.1 GET / - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 304 0 0 369
+2022-07-31 08:58:45 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 362
+2022-07-31 08:58:45 127.0.0.1 GET /style.css - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 200 0 0 429
+2022-07-31 08:58:45 127.0.0.1 GET /main.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 2 2
+2022-07-31 08:58:45 127.0.0.1 GET /favicon.ico - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 http://localhost/ 404 0 64 7

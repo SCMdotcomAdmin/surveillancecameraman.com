@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-04 15:01:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-04 15:01:45 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 7
+2022-07-04 15:02:06 192.168.0.23 GET / - 443 - 172.70.134.109 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-04 15:02:29 192.168.0.23 GET / - 443 - 172.70.34.141 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-04 15:05:10 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-04 15:06:58 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 5
+2022-07-04 15:07:52 192.168.0.23 GET /robots.txt - 443 - 108.162.241.157 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 404 0 2 69
+2022-07-04 15:07:53 192.168.0.23 GET / - 443 - 108.162.242.12 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 69
+2022-07-04 15:10:16 192.168.0.23 GET / - 443 - 172.70.34.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-04 15:10:25 192.168.0.23 GET / - 443 - 172.70.34.141 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-07-04 15:14:04 192.168.0.23 GET / - 443 - 172.70.35.10 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 77
+2022-07-04 15:16:50 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-04 15:19:45 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-04 15:26:44 192.168.0.23 GET / - 443 - 172.70.35.10 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-07-04 15:27:53 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-04 15:30:46 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-04 15:31:02 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 6
+2022-07-04 15:36:20 192.168.0.23 GET / - 443 - 172.70.35.10 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-04 15:37:47 192.168.0.23 GET / - 443 - 162.158.79.86 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-04 15:43:33 192.168.0.23 GET / - 443 - 172.70.134.109 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-04 15:52:03 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 79
+2022-07-04 15:52:12 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 157

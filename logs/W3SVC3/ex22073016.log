@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 23:01:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 23:01:51 192.168.0.23 GET /video/vagrantholiday-chaz.mp4 - 443 - 172.71.102.85 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 0 0 3984
+2022-07-30 23:02:33 192.168.0.23 GET /video/20220702_162637.mp4 - 443 - 141.101.77.64 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 0 0 2373
+2022-07-30 23:02:38 192.168.0.23 GET /video/20220702_145403.mp4 - 443 - 172.71.98.31 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 0 0 2026
+2022-07-30 23:14:25 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 172.71.94.253 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 401 2 5 149
+2022-07-30 23:14:25 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 172.70.85.97 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+DuckDuckGo/5+Safari/537.36 https://surveillancecameraman.com/ 304 0 0 144
+2022-07-30 23:15:21 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.70.90.107 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+Safari/537.36 https://surveillancecameraman.com/ 304 0 0 144
+2022-07-30 23:15:59 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.85.173 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 175
+2022-07-30 23:25:35 192.168.0.23 GET / - 443 - 172.70.38.213 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-07-30 23:26:33 192.168.0.23 GET / - 443 - 162.158.203.72 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - 200 0 0 155
+2022-07-30 23:26:33 192.168.0.23 GET /adminer.php - 443 - 162.158.203.78 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - 404 0 2 158
+2022-07-30 23:26:34 192.168.0.23 GET /adminer - 443 - 162.158.203.46 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - 404 0 2 157
+2022-07-30 23:29:21 192.168.0.23 GET / - 443 - 172.70.38.205 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 23:59:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 23:59:48 192.168.0.23 GET / - 443 - 172.70.134.77 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 169

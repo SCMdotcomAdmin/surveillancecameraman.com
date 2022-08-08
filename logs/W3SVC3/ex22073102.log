@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 09:12:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 09:12:11 192.168.0.23 GET / - 443 - 172.71.150.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 771
+2022-07-31 09:12:11 192.168.0.23 GET /style.css - 443 - 172.71.150.3 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ 200 0 0 74
+2022-07-31 09:12:11 192.168.0.23 GET /favicon.ico - 443 - 172.71.150.185 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ 404 0 2 25
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 09:57:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 09:57:25 192.168.0.23 GET /robots.txt - 443 - 172.71.98.143 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 404 0 2 1167
+2022-07-31 09:57:26 192.168.0.23 GET / - 443 - 108.162.242.42 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 70

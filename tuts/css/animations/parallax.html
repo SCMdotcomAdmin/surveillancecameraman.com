@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>How to use Parallax to create a trendy scrolling effect</title>
+	<meta name="description" content="Parallax scrolling is a popular web site trend. The background content (example; an image) is moved at a different speed than the foreground content while scrolling.">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+<body>
+	<div class="container no-trans">
+		<a style="color: darkslategrey;" href="https://surveillancecameraman.com/tuts/css/animations" rel="internal"><i style="position:  absolute;font-size: 30px;border: 1px solid lightslategray;border-radius: 20px;padding: 3px 10px;" class="fa fa-arrow-left" aria-hidden="true">
+			<span style="
+    display: contents;
+    font-family: Segoe UI;
+    position: relative;
+    color: darkslategrey;
+    font-weight: bold;
+    font-size:  20px;
+">BACK</span>
+		</i></a>
+		<h1 style="margin-top: 50px;">How to use Parallax to create a trendy scrolling effect</h1>
+		<span style="text-align: center;display: block;">CSS Animation Tutorial</span>
+		<p style="text-align: center;display: block;">Parallax scrolling is a popular web site trend. The background content (example; an image) is moved at a different speed than the foreground content while scrolling.</p>
+		<div class="image-container">
+			
+		</div>
+		<div class="tut-content">
+			<p>While I intend to make this tutorial as simple as possible, I am also assuming you are familiar with HTML & CSS.</p>
+			<h2><b>Step 1:</b> Write the HTML</h2>
+			<p>Inside of your .html document, create a container element (e.g. &lt;div&gt;) and add a class.
+				<p class="code-block"><i style="color: darkslateblue;display: block;font-size: 25px;position: relative;left: -20px;top: -20px;width: fit-content;" class="fa fa-code" aria-hidden="true"><span style="
+    display: contents;
+    font-family: Segoe UI;
+    position: relative;
+    color: darkslategrey;
+    font-weight: bold;
+    font-size:  20px;
+">HTML</span></i>
+				&lt;!-- Container element --&gt;
+				<br />
+				&lt;div class="parallax"&gt;&lt;/div&gt;
+				<h2><b>Step 2:</b> Write the CSS</h2>
+				<p>You now have the container element. Let's write some CSS to it.
+				<p>In your .css file. Insert the image you want, using <span>background-image:</span>
+				<p>Add a <span>min-height:</span> 
+				to the container, and set a specific height using either <i>px</i> or <i>%</i>.
+				<p style="line-height: 1.5em;">Now we will create the scrolling effect,
+				<br />
+				Add <span>background-attachment: fixed;</span>,
+				<span>background-position: center;</span>,
+				<span>background-repeat: no-repeat;</span>,
+				<span>background-size: cover;</span> to the container.
+				<h2>All done!</h2>
+				<p>The complete CSS code for the Parallax effect should look like this (ignore the comments '/* */' if you don't need them),
+				<br />
+				<p class="code-block">
+					<i style="color: darkslateblue;display: block;font-size: 25px;position: relative;left: -20px;top: -20px;width: fit-content;" class="fa fa-css3" aria-hidden="true">
+						<span style="
+    display: contents;
+    font-family: Segoe UI;
+    position: relative;
+    color: darkslategrey;
+    font-weight: bold;
+    font-size:  20px;
+">CSS</span>
+					</i>
+					<b>.parallax {</b> 
+						<br />
+					<i>/* The image used */</i>
+					<br />
+  				background-image: url("img_parallax.jpg");
+  				<br />
+  				<i>/* Set a specific height */</i>
+  				<br />
+  				min-height: 500px;
+  				<br />
+  <i>/* Create the parallax scrolling effect */</i>
+  <br />
+  background-attachment: fixed;
+  <br />
+  background-position: center;
+  <br />
+  background-repeat: no-repeat;
+  <br />
+  background-size: cover;
+  <br />
+<b>}</b>
+			</p>
+		</div>
+	</div>
+	<script type="text/javascript" src="main.js"></script>
+        <!-- Cloudflare Web Analytics -->
+        <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "f36ec1804b73413dbc2939c2f846a17d"}'></script>
+        <!-- End Cloudflare Web Analytics -->
+</body>
+</html>

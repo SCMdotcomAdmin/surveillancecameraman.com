@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-05 19:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-05 19:00:00 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-05 19:01:58 192.168.0.23 GET / - 443 - 172.70.135.76 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:02:40 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:09:11 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:10:04 192.168.0.23 GET / - 443 - 172.70.35.22 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:10:44 192.168.0.23 GET / - 443 - 172.70.134.175 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:11:20 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:15:47 192.168.0.23 GET / - 443 - 172.70.135.44 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:16:12 192.168.0.23 GET / - 443 - 172.70.42.133 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-05 19:21:04 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 108.162.246.220 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://surveillancecameraman.com/ 200 0 0 48
+2022-06-05 19:21:04 192.168.0.23 GET /@Grandson_Grampie/main.js - 443 - 108.162.246.76 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://downloads.media/@Grandson_Grampie/commoncarp 404 0 2 4
+2022-06-05 19:21:04 192.168.0.23 GET /@Grandson_Grampie/style.css - 443 - 108.162.245.211 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://downloads.media/@Grandson_Grampie/commoncarp 304 0 0 8
+2022-06-05 19:21:04 192.168.0.23 GET /@Grandson_Grampie/video/commoncarp.webm - 443 - 108.162.245.63 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://downloads.media/@Grandson_Grampie/commoncarp 304 0 0 4
+2022-06-05 19:21:06 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://downloads.media/@Grandson_Grampie/commoncarp 404 0 2 7
+2022-06-05 19:24:34 192.168.0.23 GET / - 443 - 162.158.79.36 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-05 19:25:01 192.168.0.23 GET / - 443 - 172.70.38.3 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+2022-06-05 19:28:10 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-05 19:29:19 192.168.0.23 GET / - 443 - 172.70.134.175 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-05 19:30:39 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:32:50 192.168.0.23 GET / - 443 - 172.70.35.82 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-05 19:33:34 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 108.162.246.136 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-G960U+Build/QP1A.190711.020) - 200 0 0 15
+2022-06-05 19:37:45 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:39:56 192.168.0.23 GET / - 443 - 162.158.78.123 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:41:00 192.168.0.23 GET / - 443 - 162.158.79.122 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:41:27 192.168.0.23 GET /image/vagrantholiday-chaz.jpg - 443 - 172.69.69.88 Mozilla/5.0+(Android+12;+Mobile;+rv:100.0)+Gecko/100.0+Firefox/100.0 https://surveillancecameraman.com/ 200 0 0 163
+2022-06-05 19:41:36 192.168.0.23 GET / - 443 - 172.70.38.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:43:26 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 108.162.246.220 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 200 0 0 42
+2022-06-05 19:46:09 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:47:13 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-05 19:51:23 192.168.0.23 GET / - 443 - 172.70.134.175 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-05 19:51:54 192.168.0.23 GET / - 443 - 172.70.134.195 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-05 19:56:32 192.168.0.23 GET / - 443 - 172.70.135.88 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 114
+2022-06-05 19:59:23 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72

@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 17:13:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 17:13:12 192.168.0.23 GET / - 443 - 172.70.34.106 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 321
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 17:30:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 17:30:56 192.168.0.23 GET / - 443 - 172.68.10.152 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 196
+2022-08-04 17:39:58 192.168.0.23 GET / - 443 - 172.68.11.139 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/101.0.4951.67+Safari/537.36 https://downloads.media/ 200 0 0 196
+2022-08-04 17:40:02 192.168.0.23 GET /admin/ - 443 - 172.68.11.139 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/101.0.4951.67+Safari/537.36 https://downloads.media/ 404 0 2 197
+2022-08-04 17:45:38 192.168.0.23 GET /wp-login.php - 443 - 172.68.118.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:96.0)+Gecko/20100101+Firefox/96 http://downloads.media/wp-login.php 404 0 2 125

@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-08 18:01:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-08 18:01:43 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 81
+2022-06-08 18:05:01 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:05:21 192.168.0.23 GET / - 443 - 172.70.134.109 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-08 18:09:15 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-08 18:13:01 192.168.0.23 GET / - 443 - 172.70.174.159 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-08 18:14:54 192.168.0.23 GET / - 443 - 172.70.35.82 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 460
+2022-06-08 18:19:09 192.168.0.23 GET / - 443 - 172.70.34.217 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-08 18:19:58 192.168.0.23 GET / - 443 - 172.70.38.251 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-08 18:21:59 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-08 18:24:47 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-08 18:28:14 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-08 18:28:55 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:32:02 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 1477
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-08 18:34:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-08 18:34:05 192.168.0.23 GET /image/balconybridge.jpg - 443 - 162.158.106.233 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://surveillancecameraman.com/ 200 0 0 360
+2022-06-08 18:34:48 192.168.0.23 GET / - 443 - 162.158.78.107 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 104
+2022-06-08 18:36:05 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 https://downloads.media/video/balconybridge3.mp4 404 0 2 113
+2022-06-08 18:37:45 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:101.0)+Gecko/20100101+Firefox/101.0 - 200 0 995 102518
+2022-06-08 18:37:46 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 491
+2022-06-08 18:40:00 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:42:49 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-08 18:43:31 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-08 18:46:22 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:48:57 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:53:25 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 9
+2022-06-08 18:53:34 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-08 18:54:26 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:57:29 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-08 18:59:36 192.168.0.23 GET / - 443 - 172.70.35.10 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 139
+2022-06-08 18:59:57 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+Safari/537.36 - 200 0 995 1290
+2022-06-08 18:59:58 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 279

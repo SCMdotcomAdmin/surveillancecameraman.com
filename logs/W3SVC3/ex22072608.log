@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-26 15:00:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-26 15:00:55 192.168.0.23 GET /robots.txt - 443 - 108.162.216.211 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 207
+2022-07-26 15:00:55 192.168.0.23 GET /ads.txt - 443 - 172.70.178.143 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 57
+2022-07-26 15:09:20 192.168.0.23 GET / - 443 - 172.70.174.125 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - 200 0 0 76
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-26 15:44:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-26 15:44:20 192.168.0.23 GET / - 443 - 172.70.34.183 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 173
+2022-07-26 15:44:34 192.168.0.23 GET / - 443 - 172.70.135.80 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 79

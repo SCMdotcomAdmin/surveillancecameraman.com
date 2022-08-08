@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-29 14:08:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-29 14:08:32 192.168.0.23 GET / - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 200 0 0 415
+2022-07-29 14:08:32 192.168.0.23 GET /feed/ - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 213
+2022-07-29 14:08:32 192.168.0.23 GET /xmlrpc.php rsd 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 212
+2022-07-29 14:08:32 192.168.0.23 GET /blog/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 214
+2022-07-29 14:08:32 192.168.0.23 GET /web/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 220
+2022-07-29 14:08:33 192.168.0.23 GET /wordpress/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 217
+2022-07-29 14:08:33 192.168.0.23 GET /wp/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 228
+2022-07-29 14:08:33 192.168.0.23 GET /2020/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 242
+2022-07-29 14:08:33 192.168.0.23 GET /2019/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-29 14:08:33 192.168.0.23 GET /2021/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-07-29 14:08:34 192.168.0.23 GET /shop/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 197
+2022-07-29 14:08:34 192.168.0.23 GET /wp1/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 200
+2022-07-29 14:08:34 192.168.0.23 GET /test/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 242
+2022-07-29 14:08:34 192.168.0.23 GET /site/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 198
+2022-07-29 14:08:34 192.168.0.23 GET /cms/wp-includes/wlwmanifest.xml - 443 - 162.158.170.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 200
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-29 14:51:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-29 14:51:31 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 108.162.216.173 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 355

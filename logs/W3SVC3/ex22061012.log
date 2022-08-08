@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-10 19:02:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-10 19:02:56 192.168.0.23 GET / - 443 - 172.70.38.219 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:04:22 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:06:19 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:10:11 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:10:38 192.168.0.23 GET /image/vagrantholiday-chaz.jpg - 443 - 162.158.107.220 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+DuckDuckGo/5+Safari/537.36 https://surveillancecameraman.com/ 304 0 0 32
+2022-06-10 19:14:00 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:14:02 192.168.0.23 GET /robots.txt - 443 - 162.158.78.205 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 71
+2022-06-10 19:14:02 192.168.0.23 GET / - 443 - 172.70.174.161 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.5005.61+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 304 0 0 71
+2022-06-10 19:14:34 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:15:40 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:17:37 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:21:18 192.168.0.23 GET /image/balconybridge.jpg - 443 - 162.158.106.233 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+DuckDuckGo/5+Safari/537.36 https://surveillancecameraman.com/ 304 0 0 11
+2022-06-10 19:23:06 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 80
+2022-06-10 19:24:27 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 236
+2022-06-10 19:24:54 192.168.0.23 GET /image/commoncarp.jpg - 443 - 172.68.133.79 Mozilla/5.0+(Linux;+Android+12;+SM-G998U1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.5005.99+Mobile+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 179
+2022-06-10 19:29:12 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:29:38 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:34:28 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 19:34:41 192.168.0.23 GET / - 443 - 172.70.35.82 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 78
+2022-06-10 19:35:25 192.168.0.23 GET / - 443 - 172.70.135.202 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:38:11 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:39:41 192.168.0.23 GET / - 443 - 172.69.33.119 Mozilla/5.0+(Windows+NT+6.2;+rv:20.0)+Gecko/20121202+Firefox/20.0 - 200 0 0 30
+2022-06-10 19:39:43 192.168.0.23 GET /favicon.ico - 443 - 172.69.33.191 Mozilla/5.0+(Windows+NT+6.2;+rv:20.0)+Gecko/20121202+Firefox/20.0 - 404 0 2 31
+2022-06-10 19:39:44 192.168.0.23 GET /sitemap.xml - 443 - 172.70.210.11 Mozilla/5.0+(Windows+NT+6.2;+rv:20.0)+Gecko/20121202+Firefox/20.0 - 404 0 2 29
+2022-06-10 19:39:44 192.168.0.23 GET /.well-known/security.txt - 443 - 172.70.214.109 Mozilla/5.0+(Windows+NT+6.2;+rv:20.0)+Gecko/20121202+Firefox/20.0 - 404 0 2 62
+2022-06-10 19:39:44 192.168.0.23 GET /robots.txt - 443 - 172.70.210.141 Mozilla/5.0+(Windows+NT+6.2;+rv:20.0)+Gecko/20121202+Firefox/20.0 - 404 0 2 31
+2022-06-10 19:42:44 192.168.0.23 GET / - 443 - 162.158.78.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:43:13 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:49:10 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:50:12 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 19:51:25 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 19:52:21 192.168.0.23 GET / - 443 - 162.158.79.46 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 19:55:49 192.168.0.23 GET / - 443 - 172.69.33.15 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 200 0 0 32
+2022-06-10 19:55:49 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 80
+2022-06-10 19:55:57 192.168.0.23 GET /favicon.ico - 443 - 172.70.210.155 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 404 0 2 30
+2022-06-10 19:59:56 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70

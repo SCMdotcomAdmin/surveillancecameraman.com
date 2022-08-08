@@ -1,0 +1,39 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-20 02:03:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-20 02:03:33 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 422
+2022-06-20 02:04:54 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-20 02:05:49 192.168.0.23 GET / - 443 - 162.158.78.157 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-20 02:08:52 192.168.0.23 GET / - 443 - 172.70.34.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 942
+2022-06-20 02:11:45 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 80
+2022-06-20 02:13:44 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-20 02:16:22 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+2022-06-20 02:18:31 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-20 02:20:25 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-20 02:25:01 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-20 02:25:13 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-20 02:27:14 192.168.0.23 GET / - 443 - 162.158.78.41 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-20 02:31:06 192.168.0.23 GET / - 443 - 172.70.174.125 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-20 02:32:30 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-20 02:35:19 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-20 02:36:46 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-20 02:41:47 192.168.0.23 GET / - 443 - 162.158.106.147 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 - 200 0 0 25
+2022-06-20 02:41:52 192.168.0.23 GET /style.css - 443 - 108.162.245.71 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/ 200 0 0 55
+2022-06-20 02:41:52 192.168.0.23 GET /image/commoncarp.jpg - 443 - 162.158.107.56 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/ 200 0 0 109
+2022-06-20 02:41:52 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/ 404 0 2 8
+2022-06-20 02:41:53 192.168.0.23 GET /upload-video - 443 - 108.162.245.113 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/ 200 0 0 38
+2022-06-20 02:42:04 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-20 02:43:01 192.168.0.23 POST /upload-video.php - 443 - 108.162.245.113 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/upload-video 200 0 0 5286
+2022-06-20 02:43:31 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 454
+2022-06-20 02:43:35 192.168.0.23 GET /video/TheFirstMedalofHonorEverRecorded.mp4 - 443 - 162.158.107.220 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 - 200 0 0 20858
+2022-06-20 02:45:07 192.168.0.23 GET /robots.txt - 443 - 172.70.38.237 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 75
+2022-06-20 02:45:07 192.168.0.23 GET /ads.txt - 443 - 172.70.34.139 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 123
+2022-06-20 02:50:06 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Dalvik/2.1.0+(Linux;+U;+Android+10;+SM-A115U+Build/QP1A.190711.020) - 404 0 2 4
+2022-06-20 02:50:42 192.168.0.23 GET /upload-video - 443 - 162.158.107.76 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 https://downloads.media/ 200 0 0 26
+2022-06-20 02:50:43 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-20 02:51:21 192.168.0.23 GET /video - 443 - 162.158.106.147 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 - 301 0 0 6
+2022-06-20 02:51:21 192.168.0.23 GET /video/ - 443 - 162.158.106.147 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.125+Mobile+DuckDuckGo/5+Safari/537.36 - 200 0 0 41
+2022-06-20 02:52:55 192.168.0.23 GET / - 443 - 162.158.78.83 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-20 02:55:49 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-20 02:56:25 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72

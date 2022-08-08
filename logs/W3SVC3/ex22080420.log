@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-05 03:30:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-05 03:30:18 192.168.0.23 GET /pastebin - 443 - 108.162.246.171 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 301 0 0 228
+2022-08-05 03:30:18 192.168.0.23 GET /pastebin/ - 443 - 108.162.246.171 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 385
+2022-08-05 03:30:18 192.168.0.23 GET /pastebin/css/mobile.css - 443 - 162.158.107.21 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/ 200 0 0 6
+2022-08-05 03:30:18 192.168.0.23 GET /pastebin/css/style.css - 443 - 162.158.107.39 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/ 200 0 0 15
+2022-08-05 03:30:26 192.168.0.23 GET /pastebin/create_account.php - 443 - 108.162.246.171 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/ 200 0 0 40
+2022-08-05 03:31:05 192.168.0.23 GET /pastebin/index.php - 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/create_account.php 200 0 0 6
+2022-08-05 03:31:07 192.168.0.23 GET /pastebin/create_account.php - 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php 200 0 0 20
+2022-08-05 03:31:10 192.168.0.23 GET /pastebin/index.php - 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/create_account.php 200 0 0 6
+2022-08-05 03:31:16 192.168.0.23 POST /pastebin/php/LoginHandler.php - 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php 302 0 0 3271
+2022-08-05 03:31:16 192.168.0.23 GET /pastebin/index.php message_type=error&message=Invalid+username. 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php 200 0 0 51
+2022-08-05 03:31:19 192.168.0.23 GET /pastebin/create_account.php - 443 - 172.71.150.140 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php?message_type=error&message=Invalid+username. 200 0 0 78
+2022-08-05 03:32:49 192.168.0.23 GET /pastebin/ - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 8
+2022-08-05 03:33:13 192.168.0.23 GET /pastebin/all-pastes.php - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 404 0 2 6
+2022-08-05 03:33:13 192.168.0.23 GET /favicon.ico - 443 - 172.71.150.184 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/all-pastes.php 404 0 2 3
+2022-08-05 03:33:20 192.168.0.23 GET /pastebin/all_pastes.php - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 404 0 2 5
+2022-08-05 03:39:26 192.168.0.23 GET /ossn - 443 - 108.162.246.169 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 301 0 0 4
+2022-08-05 03:39:26 192.168.0.23 GET /ossn/ - 443 - 108.162.246.169 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 302 0 0 24
+2022-08-05 03:39:26 192.168.0.23 GET /ossn/installation - 443 - 108.162.246.169 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 301 0 0 27
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/rewrite.php - 443 - 172.71.102.14 - - 404 0 2 149
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/installation/ - 443 - 108.162.246.169 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 1368
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/installation/styles/settings.jpg - 443 - 162.158.107.65 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ossn/installation/ 200 0 0 3
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/installation/styles/ossn.install.css - 443 - 108.162.246.105 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ossn/installation/ 200 0 0 126
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/installation/styles/favicon.ico ossn_cache 443 - 162.158.106.22 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ossn/installation/ 200 0 0 46
+2022-08-05 03:39:27 192.168.0.23 GET /ossn/installation/styles/logo_admin.jpg va 443 - 108.162.246.243 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ossn/installation/styles/ossn.install.css 200 0 0 16
+2022-08-05 03:47:13 192.168.0.23 GET /ossn/ - 443 - 172.71.142.136 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 302 0 0 45
+2022-08-05 03:47:13 192.168.0.23 GET /ossn/installation - 443 - 172.71.150.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 301 0 0 3
+2022-08-05 03:47:14 192.168.0.23 GET /ossn/rewrite.php - 443 - 172.71.98.136 - - 404 0 2 159
+2022-08-05 03:47:14 192.168.0.23 GET /ossn/installation/ - 443 - 172.71.150.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 1329
+2022-08-05 03:47:14 192.168.0.23 GET /ossn/installation/styles/favicon.ico ossn_cache 443 - 172.71.150.78 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ossn/installation/ 200 0 0 26
+2022-08-05 03:48:55 192.168.0.23 GET /pastebin/ - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 9
+2022-08-05 03:49:04 192.168.0.23 POST /pastebin/php/LoginHandler.php - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/ 302 0 0 223
+2022-08-05 03:49:04 192.168.0.23 GET /pastebin/index.php message_type=error&message=Invalid+password. 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/ 200 0 0 5
+2022-08-05 03:49:15 192.168.0.23 POST /pastebin/php/LoginHandler.php - 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php?message_type=error&message=Invalid+password. 302 0 0 194
+2022-08-05 03:49:15 192.168.0.23 GET /pastebin/index.php message_type=error&message=Invalid+password. 443 - 172.71.150.162 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/pastebin/index.php?message_type=error&message=Invalid+password. 200 0 0 8
+2022-08-05 03:54:53 192.168.0.23 GET /image/commoncarp.jpg - 443 - 108.162.241.116 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 441
+2022-08-05 03:54:54 192.168.0.23 GET /image/20220614_170606.jpg - 443 - 108.162.241.182 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 230
+2022-08-05 03:55:55 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 108.162.241.204 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 - 401 2 5 123
+2022-08-05 03:55:58 192.168.0.23 GET /@Grandson_Grampie/commoncarp - 443 - 108.162.241.204 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 - 401 2 5 72
+2022-08-05 03:55:58 192.168.0.23 GET /favicon.ico - 443 - 108.162.241.24 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://downloads.media/@Grandson_Grampie/commoncarp 404 0 2 71

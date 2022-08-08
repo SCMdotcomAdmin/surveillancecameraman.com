@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 06:03:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 06:03:22 192.168.0.23 GET / - 80 - 94.232.45.12 Mozilla/5.0 - 200 0 0 4947
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 06:30:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 06:30:27 127.0.0.1 GET /media/videos/scm1-8_www.surveillancecameraman.com.mp4 - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+rv:91.0)+Gecko/20100101+Firefox/91.0 http://hhovwfdotjuddze3tk4vnpcb3zf3gycseczjptxbxfbsm7gpz7t2nbyd.onion/ 206 0 995 9485360

@@ -1,0 +1,39 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-26 01:01:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-26 01:01:43 127.0.0.1 POST /phpmyadmin/index.php route=/ 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 884
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-26 01:20:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-26 01:20:18 127.0.0.1 POST /phpmyadmin/index.php route=/ 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 263
+2022-07-26 01:20:18 127.0.0.1 GET /phpmyadmin/index.php route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1658798418256319714&token=685c64555e263e4c55386e413a6d7e25 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 179
+2022-07-26 01:20:21 127.0.0.1 GET /phpmyadmin/index.php route=/table/get-field&db=teststore&table=images&where_clause_sign=740dafdd2a0592fc8fff8aa9025e6f89314a4e3f142fe2353f429ac39165e881&where_clause=%60images%60.%60id%60+%3D+1&transform_key=image&sql_query=SELECT+%2A+FROM+%60images%60 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 194
+2022-07-26 01:20:24 127.0.0.1 GET /phpmyadmin/index.php route=/sql&db=teststore&table=images&pos=0 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 442
+2022-07-26 01:20:24 127.0.0.1 GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js v=5.2.0 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 64 59
+2022-07-26 01:20:24 127.0.0.1 GET /phpmyadmin/js/messages.php l=en&v=5.2.0 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 137
+2022-07-26 01:20:24 127.0.0.1 POST /phpmyadmin/index.php route=/config/get 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 270
+2022-07-26 01:20:24 127.0.0.1 POST /phpmyadmin/index.php route=/navigation&ajax_request=1 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 469
+2022-07-26 01:20:24 127.0.0.1 POST /phpmyadmin/index.php route=/config/get 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 576
+2022-07-26 01:20:25 127.0.0.1 GET /phpmyadmin/index.php route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1658798424974552358&token=685c64555e263e4c55386e413a6d7e25 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 623
+2022-07-26 01:20:25 127.0.0.1 POST /phpmyadmin/index.php route=/navigation&ajax_request=1 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 372
+2022-07-26 01:20:25 127.0.0.1 POST /phpmyadmin/index.php route=/config/set 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 304
+2022-07-26 01:20:29 127.0.0.1 GET /phpmyadmin/index.php route=/table/get-field&db=teststore&table=images&where_clause_sign=cccef7c12bda5db1fddc96d46286024faa9d5e28fe8d3771a50ed9679e1eab5d&where_clause=%60images%60.%60id%60+%3D+2&transform_key=image&sql_query=SELECT+%2A+FROM+%60images%60 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 138
+2022-07-26 01:20:32 127.0.0.1 GET /phpmyadmin/index.php route=/table/get-field&db=teststore&table=images&where_clause_sign=3fd8b7bba9666d57d026c24df6056c6a5d801e127754fef95bc3c9e6369fca35&where_clause=%60images%60.%60id%60+%3D+1&transform_key=image&sql_query=SELECT+%2A+FROM+%60images%60 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 346
+2022-07-26 01:20:36 127.0.0.1 POST /phpmyadmin/index.php - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 1240
+2022-07-26 01:20:36 127.0.0.1 GET /phpmyadmin/index.php route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1658798437173595721&token=685c64555e263e4c55386e413a6d7e25 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 154
+2022-07-26 01:20:40 127.0.0.1 GET /phpmyadmin/index.php route=%2Ftable%2Fchange&db=teststore&table=images&server=1&ajax_request=true&ajax_page_request=true&_nocache=1658798439977401535&token=685c64555e263e4c55386e413a6d7e25 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 268
+2022-07-26 01:20:40 127.0.0.1 GET /phpmyadmin/index.php route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1658798440303261486&token=685c64555e263e4c55386e413a6d7e25 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 205
+2022-07-26 01:20:42 127.0.0.1 GET /view.php - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 65
+2022-07-26 01:20:42 127.0.0.1 GET /favicon.ico - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://localhost/view.php 404 0 2 2
+2022-07-26 01:21:47 192.168.0.23 GET /boaform/admin/formLogin username=ec8&psd=ec8 80 - 27.207.99.48 - - 404 0 2 181
+2022-07-26 01:22:11 127.0.0.1 GET /view.php - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 144
+2022-07-26 01:22:11 127.0.0.1 GET /favicon.ico - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://localhost/view.php 404 0 2 0
+2022-07-26 01:23:13 192.168.0.23 GET /phpmyadmin/index.php - 80 - 172.104.81.230 - - 200 0 0 344
+2022-07-26 01:23:28 127.0.0.1 GET /view.php - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 76
+2022-07-26 01:27:30 127.0.0.1 POST /phpmyadmin/index.php route=/logout 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 302 0 0 253
+2022-07-26 01:27:30 127.0.0.1 GET /phpmyadmin/index.php route=/ 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 106
+2022-07-26 01:27:30 127.0.0.1 GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js v=5.2.0 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 64 30
+2022-07-26 01:27:30 127.0.0.1 GET /phpmyadmin/js/vendor/js.cookie.js v=5.2.0 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 64 49
+2022-07-26 01:40:46 192.168.0.23 GET / - 80 - 68.183.213.166 - - 200 0 1236 10951

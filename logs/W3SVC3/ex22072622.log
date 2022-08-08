@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-27 05:10:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-27 05:10:39 192.168.0.23 GET /robots.txt - 443 - 172.70.174.111 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 181
+2022-07-27 05:10:44 192.168.0.23 GET /atom.xml - 443 - 108.162.246.200 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 7
+2022-07-27 05:12:10 192.168.0.23 GET /upload-image - 443 - 172.71.82.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 72
+2022-07-27 05:12:10 192.168.0.23 GET /favicon.ico - 443 - 172.71.82.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 404 0 2 68
+2022-07-27 05:14:01 192.168.0.23 GET /upload-image - 443 - 172.71.150.141 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 11
+2022-07-27 05:14:01 192.168.0.23 GET /style.css - 443 - 172.71.150.3 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 200 0 0 4
+2022-07-27 05:14:01 192.168.0.23 GET /favicon.ico - 443 - 172.71.150.185 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 404 0 2 5
+2022-07-27 05:15:12 192.168.0.23 GET /upload-image - 443 - 172.71.22.165 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 99
+2022-07-27 05:15:12 192.168.0.23 GET /style.css - 443 - 172.71.22.27 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 200 0 0 106
+2022-07-27 05:15:12 192.168.0.23 GET /favicon.ico - 443 - 172.71.22.29 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 404 0 2 64
+2022-07-27 05:15:24 192.168.0.23 GET / - 443 - 172.71.22.165 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/upload-image 200 0 0 64
+2022-07-27 05:15:26 192.168.0.23 GET /upload-video - 443 - 172.71.22.165 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 91
+2022-07-27 05:15:48 192.168.0.23 GET /upload-video - 443 - 172.71.22.165 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 69
+2022-07-27 05:28:23 192.168.0.23 GET /image/streetasslt.png - 443 - 108.162.246.148 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://surveillancecameraman.com/ 200 0 0 168

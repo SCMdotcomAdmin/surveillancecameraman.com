@@ -1,0 +1,20 @@
+{% if S_VIEWTOPIC_REACTIONS && REACTIONS_ENABLED or S_REACTION_MEMBERS %}
+<script>
+	var tprData = {
+		formTime: '{{ REACTION_FORM_TIME }}',
+		url: '{{ REACTION_URL }}',
+		urlTitle: '{{ lang('VIEW_REACTIONS')|escape('js') }}',
+		height: '{% if REACTION_IMAGE_HEIGHT %}{{ REACTION_IMAGE_HEIGHT }}{% endif %}',
+		width: '{% if REACTION_IMAGE_WIDTH %}{{ REACTION_IMAGE_WIDTH }}{% endif %}',
+		alt: '{{ lang('REACTIONS')|escape('js') }}',
+		countEnabled: {% if TYPE_COUNT_ENABLE %}true{% else %}false{% endif %},
+		badgeEnabled: {% if REACTIONS_ENABLE_BADGE %}true{% else %}false{% endif %},
+		thanksEnabled: {% if REACTIONS_ENABLE_THANKS %}true{% else %}false{% endif %},
+		quickReply: '{% if TPR_QR_ACTION %}{{ TPR_QR_ACTION }}{% endif %}',
+		alertTitle: '{{ lang('INFORMATION')|escape('js') }}',
+		alertMsg: '{{ lang('TOO_FEW_CHARS')|escape('js') }}'
+	};
+</script>
+
+{% INCLUDEJS '@steve_postreactions/js/ajax_reactions.js' %}
+{% endif %}

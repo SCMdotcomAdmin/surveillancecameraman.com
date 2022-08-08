@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-26 16:06:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-26 16:06:00 192.168.0.23 GET / - 443 - 172.70.135.80 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 170
+2022-07-26 16:10:45 192.168.0.23 GET / - 443 - 172.70.34.99 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-07-26 16:16:27 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.114.41 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 133
+2022-07-26 16:26:25 192.168.0.23 GET / - 443 - 172.70.174.89 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 - 200 0 0 74
+2022-07-26 16:26:25 192.168.0.23 GET / - 443 - 172.70.34.169 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 - 200 0 0 74
+2022-07-26 16:26:25 192.168.0.23 GET /style.css - 443 - 172.70.175.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 https://downloads.media/ 200 0 0 104
+2022-07-26 16:26:25 192.168.0.23 GET /style.css - 443 - 172.70.34.247 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4691.0+Safari/537.36 https://www.downloads.media/ 200 0 0 72

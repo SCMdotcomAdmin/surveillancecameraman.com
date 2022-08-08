@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-28 16:17:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-28 16:17:16 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 162.158.91.142 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 680
+2022-07-28 16:18:22 192.168.0.23 GET /image/20220614_170606.jpg - 443 - 162.158.90.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 505
+2022-07-28 16:19:00 192.168.0.23 GET /image/streetasslt.png - 443 - 162.158.91.26 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 213
+2022-07-28 16:34:11 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.71.94.167 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+DuckDuckGo/5+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 485
+2022-07-28 16:35:12 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 188.114.103.208 Mozilla/5.0+(Windows+NT+10.0;+rv:91.0)+Gecko/20100101+Firefox/91.0 https://surveillancecameraman.com/ 200 0 0 586
+2022-07-28 16:45:15 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 108.162.246.176 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://surveillancecameraman.com/ 304 0 0 4
+2022-07-28 16:50:31 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.134.127 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 195
+2022-07-28 16:50:46 192.168.0.23 GET / - 443 - 172.70.135.80 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 145
+2022-07-28 16:50:57 192.168.0.23 GET /image/vagrantholiday-chaz.jpg - 443 - 172.70.34.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 246
+2022-07-28 16:51:26 192.168.0.23 GET /image/elevatorman.jpg - 443 - 172.70.34.123 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 568
+2022-07-28 16:51:37 192.168.0.23 GET / - 443 - 172.70.135.104 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-07-28 16:52:09 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 162.158.79.96 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 244

@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-18 12:02:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-18 12:02:18 192.168.0.23 GET / - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 190
+2022-06-18 12:02:18 192.168.0.23 GET /wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 192
+2022-06-18 12:02:18 192.168.0.23 GET /xmlrpc.php rsd 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 191
+2022-06-18 12:02:20 192.168.0.23 GET / - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 192
+2022-06-18 12:02:20 192.168.0.23 GET /blog/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 193
+2022-06-18 12:02:20 192.168.0.23 GET /web/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:21 192.168.0.23 GET /wordpress/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 195
+2022-06-18 12:02:21 192.168.0.23 GET /website/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:22 192.168.0.23 GET /wp/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 195
+2022-06-18 12:02:22 192.168.0.23 GET /news/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:22 192.168.0.23 GET /2018/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:24 192.168.0.23 GET /2019/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:24 192.168.0.23 GET /shop/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 191
+2022-06-18 12:02:25 192.168.0.23 GET /wp1/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:25 192.168.0.23 GET /test/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 191
+2022-06-18 12:02:26 192.168.0.23 GET /media/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:26 192.168.0.23 GET /wp2/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 192
+2022-06-18 12:02:27 192.168.0.23 GET /site/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:27 192.168.0.23 GET /cms/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 194
+2022-06-18 12:02:29 192.168.0.23 GET /sito/wp-includes/wlwmanifest.xml - 443 - 172.70.92.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 196
+2022-06-18 12:02:42 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:04:26 192.168.0.23 GET / - 443 - 162.158.78.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-18 12:05:25 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-18 12:08:00 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:10:58 192.168.0.23 GET / - 443 - 172.70.175.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-18 12:14:26 192.168.0.23 GET / - 443 - 172.70.34.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-18 12:19:26 192.168.0.23 GET / - 443 - 162.158.78.83 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:19:54 192.168.0.23 GET / - 443 - 162.158.78.137 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:20:52 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:21:08 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:25:52 192.168.0.23 GET /robots.txt - 443 - 108.162.229.11 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 404 0 2 153
+2022-06-18 12:25:54 192.168.0.23 GET / - 443 - 108.162.242.12 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 69
+2022-06-18 12:27:52 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-18 12:28:57 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:34:12 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:35:08 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-18 12:38:22 192.168.0.23 GET / - 443 - 162.158.78.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:40:08 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:43:45 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-18 12:44:13 192.168.0.23 GET / - 443 - 108.162.245.97 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 4
+2022-06-18 12:44:15 192.168.0.23 GET /style.css - 443 - 108.162.246.154 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Chrome/102.0.5005.115+Safari/537.36 https://www.downloads.media/ 200 0 0 39
+2022-06-18 12:45:03 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-18 12:46:43 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-06-18 12:48:13 192.168.0.23 GET / - 443 - 172.70.175.84 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 116
+2022-06-18 12:51:03 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-18 12:51:09 192.168.0.23 GET / - 443 - 172.70.34.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-18 12:56:28 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-18 12:59:45 192.168.0.23 GET / - 443 - 172.70.135.112 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72

@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 07:12:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 07:12:31 192.168.0.23 GET /video/20220702_162637.mp4 - 443 - 172.70.178.47 Googlebot-Video/1.0 - 200 0 0 798
+2022-07-30 07:24:38 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 172.70.90.127 Mozilla/5.0+(Linux;+Android+10)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+DuckDuckGo/5+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 475
+2022-07-30 07:24:48 192.168.0.23 GET /video/20220702_145403.mp4 - 443 - 172.70.131.220 Googlebot-Video/1.0 - 200 0 0 909
+2022-07-30 07:37:05 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 172.70.131.126 Googlebot-Video/1.0 - 200 0 995 997
+2022-07-30 07:45:55 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.90.13 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.129+Mobile+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 173
+2022-07-30 07:49:22 192.168.0.23 GET /video/SKYKING.mp4 - 443 - 172.70.126.197 Googlebot-Video/1.0 - 200 0 0 1478

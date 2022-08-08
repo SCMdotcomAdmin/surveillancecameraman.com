@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-10 21:00:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-10 21:00:08 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 172.70.214.47 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+Safari/537.36 https://downloads.media/video/balconybridge3.mp4 206 0 995 161040
+2022-06-10 21:00:50 192.168.0.23 GET / - 443 - 172.70.174.89 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 21:02:03 192.168.0.23 GET / - 443 - 172.70.134.109 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 21:04:26 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 172.69.34.4 Mozilla/5.0+(Linux;+Android+10;+SM-A115U+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/102.0.5005.78+Mobile+Safari/537.36 https://downloads.media/video/balconybridge3.mp4 200 0 995 71852
+2022-06-10 21:07:01 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 0 995 274
+2022-06-10 21:07:02 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 0 995 896
+2022-06-10 21:07:02 192.168.0.23 GET / - 443 - 162.158.107.130 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 5
+2022-06-10 21:07:03 192.168.0.23 GET / - 443 - 162.158.107.162 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 3
+2022-06-10 21:07:03 192.168.0.23 GET / - 443 - 162.158.107.152 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 3
+2022-06-10 21:07:03 192.168.0.23 GET / - 443 - 162.158.106.249 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 5
+2022-06-10 21:07:05 192.168.0.23 GET /image/commoncarp.jpg - 443 - 162.158.107.56 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 4
+2022-06-10 21:07:07 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 61
+2022-06-10 21:07:09 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 172.70.34.207 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 0 995 1200
+2022-06-10 21:08:40 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 21:09:29 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_5+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+238.0.0.13.112+(iPhone11,8;+iOS+15_5;+en_US;+en-US;+scale=2.00;+828x1792;+374251869)+NW/3 - 200 0 995 634
+2022-06-10 21:09:29 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_5+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+238.0.0.13.112+(iPhone11,8;+iOS+15_5;+en_US;+en-US;+scale=2.00;+828x1792;+374251869) https://downloads.media/video/balconybridge3.mp4 206 0 0 5
+2022-06-10 21:09:34 192.168.0.23 GET / - 443 - 162.158.78.181 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 148
+2022-06-10 21:13:06 192.168.0.23 GET / - 443 - 172.70.134.189 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 590
+2022-06-10 21:14:13 192.168.0.23 GET /video/balconybridge3.mp4 - 443 - 108.162.246.158 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_5+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+238.0.0.13.112+(iPhone11,8;+iOS+15_5;+en_US;+en-US;+scale=2.00;+828x1792;+374251869) https://downloads.media/video/balconybridge3.mp4 200 0 995 284315
+2022-06-10 21:14:13 192.168.0.23 GET / - 443 - 172.70.34.149 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:17:42 192.168.0.23 GET / - 443 - 172.70.34.187 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:19:44 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:22:25 192.168.0.23 GET / - 443 - 172.70.135.216 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:24:14 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-10 21:26:45 192.168.0.23 GET / - 443 - 162.158.78.197 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 69
+2022-06-10 21:27:43 192.168.0.23 GET / - 443 - 172.70.175.50 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 21:31:53 192.168.0.23 GET / - 443 - 172.70.38.29 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:32:24 192.168.0.23 GET / - 443 - 172.70.38.251 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 21:34:56 192.168.0.23 GET / - 443 - 172.69.33.123 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 30
+2022-06-10 21:37:19 192.168.0.23 GET / - 443 - 172.70.38.29 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:40:18 192.168.0.23 GET / - 443 - 172.70.38.251 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 21:41:42 192.168.0.23 GET / - 443 - 172.70.38.219 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73
+2022-06-10 21:43:34 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:46:06 192.168.0.23 GET / - 443 - 172.70.134.43 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72
+2022-06-10 21:48:45 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:53:44 192.168.0.23 GET / - 443 - 172.70.174.235 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 70
+2022-06-10 21:54:16 192.168.0.23 GET / - 443 - 172.70.135.148 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 21:57:49 192.168.0.23 GET / - 443 - 172.70.135.140 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 71
+2022-06-10 21:59:21 192.168.0.23 GET / - 443 - 172.70.38.27 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 69

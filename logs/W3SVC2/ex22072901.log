@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-29 08:28:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-29 08:28:54 192.168.0.23 GET / - 80 - 165.227.47.201 Mozilla/5.0+zgrab/0.x - 200 0 0 3870
+2022-07-29 08:34:02 192.168.0.23 GET /console/ - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 259
+2022-07-29 08:43:08 192.168.0.23 GET / - 80 - 176.58.118.88 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:8.0)+Gecko/20100101+Firefox/8.0 - 200 0 0 169
+2022-07-29 08:49:32 192.168.0.23 GET / - 80 - 92.118.160.45 NetSystemsResearch+studies+the+availability+of+various+services+across+the+internet.+Our+website+is+netsystemsresearch.com - 200 0 0 49

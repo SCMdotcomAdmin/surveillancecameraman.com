@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-01 11:00:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-01 11:00:22 192.168.0.23 GET / - 80 - 59.98.173.80 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 316
+2022-08-01 11:05:20 192.168.0.23 GET / - 80 - 94.102.49.193 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36 - 200 0 0 158
+2022-08-01 11:05:20 192.168.0.23 GET /robots.txt - 80 - 94.102.49.193 - - 404 0 2 159
+2022-08-01 11:05:20 192.168.0.23 GET /sitemap.xml - 80 - 94.102.49.193 - - 404 0 2 158
+2022-08-01 11:05:20 192.168.0.23 GET /.well-known/security.txt - 80 - 94.102.49.193 - - 404 0 2 163
+2022-08-01 11:05:21 192.168.0.23 GET /favicon.ico - 80 - 94.102.49.193 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:80.0)+Gecko/20100101+Firefox/80.0 - 404 0 2 154
+2022-08-01 11:05:56 192.168.0.23 GET /0bef - 80 - 172.104.242.173 - - 404 0 2 196
+2022-08-01 11:08:47 192.168.0.23 GET / - 80 - 34.78.6.216 python-requests/2.28.1 - 200 0 0 162
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-01 11:31:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-01 11:31:18 192.168.0.23 GET / - 80 - 71.6.232.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.131+Safari/537.36 - 200 0 64 331

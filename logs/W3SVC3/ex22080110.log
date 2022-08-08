@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-01 17:10:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-01 17:10:37 192.168.0.23 GET / - 443 - 172.68.102.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Safari/537.36 - 200 0 0 453
+2022-08-01 17:10:37 192.168.0.23 GET /favicon.ico - 443 - 172.68.102.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Safari/537.36 - 404 0 2 178
+2022-08-01 17:24:27 192.168.0.23 GET / - 443 - 172.70.174.158 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-08-01 17:41:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-08-01 17:41:42 192.168.0.23 GET / - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 200 0 0 184
+2022-08-01 17:41:42 192.168.0.23 GET /feed/ - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 196
+2022-08-01 17:41:42 192.168.0.23 GET /xmlrpc.php rsd 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-08-01 17:41:42 192.168.0.23 GET /blog/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 192
+2022-08-01 17:41:42 192.168.0.23 GET /web/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 201
+2022-08-01 17:41:43 192.168.0.23 GET /wordpress/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 204
+2022-08-01 17:41:43 192.168.0.23 GET /wp/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 222
+2022-08-01 17:41:43 192.168.0.23 GET /2020/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 219
+2022-08-01 17:41:43 192.168.0.23 GET /2019/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 197
+2022-08-01 17:41:43 192.168.0.23 GET /2021/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 191
+2022-08-01 17:41:44 192.168.0.23 GET /shop/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 219
+2022-08-01 17:41:44 192.168.0.23 GET /wp1/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 194
+2022-08-01 17:41:44 192.168.0.23 GET /test/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 193
+2022-08-01 17:41:44 192.168.0.23 GET /site/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 195
+2022-08-01 17:41:44 192.168.0.23 GET /cms/wp-includes/wlwmanifest.xml - 443 - 172.70.147.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 - 404 0 2 227

@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-31 06:30:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-31 06:30:15 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.71.150.45 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 165
+2022-07-31 06:37:55 192.168.0.23 GET / - 443 - 172.71.150.159 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 4
+2022-07-31 06:37:55 192.168.0.23 GET /style.css - 443 - 172.71.142.59 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ 200 0 0 125
+2022-07-31 06:37:56 192.168.0.23 GET /favicon.ico - 443 - 172.71.142.97 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/ 404 0 2 5
+2022-07-31 06:38:06 192.168.0.23 GET /image/mtbaker-sunrise_pan.jpg - 443 - 108.162.246.208 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://surveillancecameraman.com/ 304 0 0 3
+2022-07-31 06:40:11 192.168.0.23 GET /video/Army+Rangers+SMOKED+Some+Crips+in+1989....mp4 - 443 - 162.158.107.28 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 2331
+2022-07-31 06:40:11 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/video/Army%20Rangers%20SMOKED%20Some%20Crips%20in%201989....mp4 404 0 2 3
+2022-07-31 06:51:38 192.168.0.23 GET /video/Army+Rangers+SMOKED+Some+Crips+in+1989....mp4 - 443 - 172.71.142.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/video/Army%20Rangers%20SMOKED%20Some%20Crips%20in%201989....mp4 200 0 0 2643
+2022-07-31 06:57:13 192.168.0.23 GET /image/SKYKING.jpg - 443 - 108.162.246.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://surveillancecameraman.com/ 200 0 0 69
+2022-07-31 06:57:24 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 https://downloads.media/video/SKYKING.mp4 404 0 2 51
+2022-07-31 06:57:24 192.168.0.23 GET /video/SKYKING.mp4 - 443 - 108.162.246.146 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:103.0)+Gecko/20100101+Firefox/103.0 - 200 0 0 2093

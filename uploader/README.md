@@ -1,0 +1,2 @@
+# Upload-files-on-php-mysql-site-server-and-saving-details-on-database
+Upload files on php/mysql site server and saving details on database, Upload files on php/mysql site server and saving on database  instead of saving files into the database upload to the server and save file location on the database  find php files, mysql dump file and js on the zip happy using  NB: file location are relative to the web site files

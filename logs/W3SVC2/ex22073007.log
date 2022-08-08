@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 14:37:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 14:37:24 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 200 0 64 409
+2022-07-30 14:42:47 192.168.0.23 GET / - 80 - 154.64.14.44 Linux+Gnu+(cow) - 200 0 64 26

@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-27 05:06:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-27 05:06:42 192.168.0.23 GET / - 80 - 159.203.75.209 Mozilla/5.0+(X11;+Linux+x86_64;+rv:73.0)+Gecko/20100101+Firefox/73.0 - 200 0 1236 13019
+2022-07-27 05:17:39 192.168.0.23 GET / - 80 - 159.203.75.209 Mozilla/5.0+(X11;+Linux+x86_64;+rv:73.0)+Gecko/20100101+Firefox/73.0 - 200 0 0 88
+2022-07-27 05:17:39 192.168.0.23 GET /favicon.ico - 80 - 159.203.75.209 Mozilla/5.0+(X11;+Linux+x86_64;+rv:73.0)+Gecko/20100101+Firefox/73.0 http://71.212.158.114/ 404 0 2 92

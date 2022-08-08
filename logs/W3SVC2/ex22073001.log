@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 08:18:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 08:18:18 192.168.0.23 GET / - 80 - 171.22.30.44 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:77.0)+Gecko/20100101+Firefox/77.0 http://71.212.158.114:80/left.html 200 0 64 390
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-30 08:49:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-30 08:49:45 192.168.0.23 GET / - 80 - 104.206.128.30 https://gdnplus.com:Gather+Analyze+Provide. - 200 0 0 1975
