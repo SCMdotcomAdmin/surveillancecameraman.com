@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-26 13:22:03
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-26 13:22:03 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 200 0 0 317
-2022-07-26 13:31:04 192.168.0.23 POST /boaform/admin/formLogin - 80 - 163.123.143.71 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:71.0)+Gecko/20100101+Firefox/71.0 http://71.212.158.114:80/admin/login.asp 404 0 2 155
-2022-07-26 13:34:58 192.168.0.23 GET / XDEBUG_SESSION_START=phpstorm 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 190
-2022-07-26 13:45:15 192.168.0.23 GET / - 80 - 209.222.252.91 Java/1.8.0_312 - 200 0 0 84
-2022-07-26 13:46:57 192.168.0.23 GET /map/baidumap.xml - 80 - 143.92.32.148 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 /map/baidumap.xml 404 0 2 214

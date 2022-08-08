@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-31 19:03:16
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-31 19:03:16 192.168.0.23 GET /favicon.ico - 443 - 172.71.94.159 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 https://downloads.media/image/scm-dmcacomplaint.JPG 404 0 2 153
-2022-07-31 19:03:23 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.71.94.167 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 - 200 0 0 488
-2022-07-31 19:09:42 192.168.0.23 GET /robots.txt - 443 - 162.158.90.141 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36 - 404 0 2 159

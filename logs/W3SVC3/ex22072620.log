@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-27 03:30:24
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-27 03:30:24 192.168.0.23 GET /style.css - 443 - 108.162.246.254 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 216
-2022-07-27 03:30:24 192.168.0.23 GET /favicon.ico - 443 - 162.158.107.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 404 0 2 9
-2022-07-27 03:30:27 192.168.0.23 GET /upload-image - 443 - 108.162.246.88 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://downloads.media/ 200 0 0 17
-2022-07-27 03:34:22 192.168.0.23 GET /style.css - 443 - 172.71.82.121 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 304 0 0 65

@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-30 16:43:38
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-30 16:43:37 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 162.158.222.173 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 1523
-2022-07-30 16:53:37 192.168.0.23 GET /image/scm-dmcacomplaint.JPG - 443 - 172.68.210.25 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 453

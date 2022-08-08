@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-30 07:26:33
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-30 07:26:32 192.168.0.23 POST /Autodiscover/Autodiscover.xml - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 347
-2022-07-30 07:41:15 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 200 0 64 158
-2022-07-30 07:48:17 192.168.0.23 GET /_ignition/execute-solution - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 243

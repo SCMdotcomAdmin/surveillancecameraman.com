@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-08-03 22:13:48
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-08-03 22:13:48 192.168.0.23 GET / - 80 - 185.196.220.70 Linux+Gnu+(cow) - 403 14 0 264
-2022-08-03 22:20:50 192.168.0.23 GET / - 80 - 201.150.174.145 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 403 14 0 197
-2022-08-03 22:30:08 192.168.0.23 GET / - 80 - 185.7.214.104 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 403 14 0 189

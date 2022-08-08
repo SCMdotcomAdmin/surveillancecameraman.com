@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-27 13:41:17
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-27 13:41:17 192.168.0.23 GET / - 443 - 172.70.135.120 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 445
-2022-07-27 13:42:18 192.168.0.23 GET / - 443 - 172.70.135.104 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 75

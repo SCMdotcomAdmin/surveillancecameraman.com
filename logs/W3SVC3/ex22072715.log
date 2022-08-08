@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-27 22:15:39
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-27 22:15:38 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.178.141 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.134+Safari/537.36+Edg/103.0.1264.71 https://surveillancecameraman.com/ 200 0 0 276
-2022-07-27 22:27:59 192.168.0.23 GET /image/streetasslt.png - 443 - 172.70.181.131 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.5005.108+Safari/537.36 https://surveillancecameraman.com/ 200 0 0 219
-2022-07-27 22:40:10 192.168.0.23 GET / - 443 - 172.70.35.70 FreshpingBot/1.0+(+https://freshping.io/) - 200 0 0 72

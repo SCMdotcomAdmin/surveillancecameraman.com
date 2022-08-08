@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-07-26 19:13:34
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-07-26 19:13:34 192.168.0.23 GET /wp-login.php - 443 - 172.70.247.40 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:96.0)+Gecko/20100101+Firefox/96 http://downloads.media/wp-login.php 404 0 2 281

@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-08-01 15:27:20
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-08-01 15:27:20 192.168.0.23 GET / - 80 - 64.62.197.212 - - 200 0 64 192
-2022-08-01 15:30:30 192.168.0.23 GET /favicon.ico - 80 - 64.62.197.212 Mozilla/5.0+zgrab/0.x - 404 0 2 26

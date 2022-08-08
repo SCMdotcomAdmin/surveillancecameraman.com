@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-08-04 22:09:14
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2022-08-04 22:09:14 ::1 GET /forum/index.php sid=b83b29e76427ee5c0ce09955ce2c42fe 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 http://localhost/forum/viewtopic.php?p=43 200 0 0 3281
-2022-08-04 22:09:14 ::1 GET /forum/ext/phpbb/ads/styles/all/theme/phpbbads.css assets_version=63 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.0.0+Safari/537.36 http://localhost/forum/index.php?sid=b83b29e76427ee5c0ce09955ce2c42fe 404 8 0 4
