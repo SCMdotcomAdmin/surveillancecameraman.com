@@ -1,7 +1,0 @@
-services:
-    forumflair.discencql.listener:
-        class: forumflair\discencql\event\main_listener
-        arguments:
-            - '@language'
-        tags:
-            - { name: event.listener }
